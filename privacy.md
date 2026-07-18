@@ -1,4 +1,4 @@
-# Privacy Policy for ItemTracker 
+# Privacy Policy for ItemTracker #
 
 ItemTracker is designed to store all data locally on your device. 
 ### Third-Party Services
